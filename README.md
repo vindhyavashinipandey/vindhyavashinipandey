@@ -5,5 +5,5 @@
 📚 Always learning and staying up-to-date with the latest in tech and software development!
 
 🔧 Tech Stack:
-Java Spring Boot MySQL Java Swing HTML/CSS JavaScript Git/GitHub
+Java Spring Boot Microservice Hibernate JDBC  MySQL Java Swing HTML/CSS JavaScript Git/GitHub
 
